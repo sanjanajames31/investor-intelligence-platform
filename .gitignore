@@ -1,0 +1,24 @@
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local databases and vector storage
+data/chroma_db/
+*.db
+*.sqlite3
+
+# Uploaded reports and generated files
+data/raw_pdfs/
+data/markdown/
+
+# Logs and temporary files
+*.log
+.DS_Store
