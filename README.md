@@ -1,11 +1,9 @@
-# investor-intelligence-platform
-AI-Powered Investor Intelligence Platform using RAG
-
 # AI-Powered Investor Intelligence Platform
 
 An AI-powered financial intelligence platform that processes company annual reports, extracts key financial metrics, enables semantic search, and provides context-aware answers through a Retrieval-Augmented Generation (RAG) chatbot.
 
-The platform combines document ingestion, semantic chunking, vector search, Large Language Models (LLMs), and PostgreSQL to simplify financial research and investment analysis.
+The platform combines document ingestion, semantic chunking, vector search, Large Language Models (LLMs), and PostgreSQL to simplify financial research and investment analysis
+<img width="1897" height="847" alt="Screenshot 2026-11-11 194305" src="https://github.com/user-attachments/assets/32510161-dcc2-4462-a586-3a79bf3731fa" />
 
 ## Prerequisites
 
