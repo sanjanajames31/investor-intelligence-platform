@@ -158,7 +158,7 @@ http://127.0.0.1:8000/docs
 - The application uses local ChromaDB storage for document embeddings.
 - For production deployment, consider containerization, cloud-hosted databases, authentication, and secure secrets management.
 
-## Future Enhancements
+
 
 - Multi-company financial comparison.
 - Financial trend analysis and visualization.
